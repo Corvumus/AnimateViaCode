@@ -1,1 +1,2 @@
-Демо того, как можно управлять анимациями через код.
+Демо того, как в Unity можно управлять анимациями через код.
+Сделано для канала https://www.youtube.com/channel/UCGOqoQ6gMS5tuuXE7N0-ngA?sub_confirmation=1
